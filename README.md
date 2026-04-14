@@ -24,7 +24,6 @@ Results are printed to your notebook
 
 ```
 project/
-├── setup_db.py   # creates store.db and seeds it with fake data
 ├── agent.py      # the Text-to-SQL agent
 └── store.db      # auto-generated when you run setup_db.py
 ```
